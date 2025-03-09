@@ -2,3 +2,4 @@
 2. Yorum yapabilme
 3. Direkt olarak mesaj atabilme
 4. Görüntülü arama yapabilme
+5. Kişi etiketleme
