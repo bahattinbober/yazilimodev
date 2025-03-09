@@ -1,5 +1,5 @@
-1. Fotoğraf ve video yükleme
+1. Direkt olarak mesaj atabilme
 2. Yorum yapabilme
-3. Direkt olarak mesaj atabilme
+3. Fotoğraf ve video yükleme 
 4. Görüntülü arama yapabilme
 5. Kişi etiketleme
