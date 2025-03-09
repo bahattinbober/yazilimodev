@@ -1,0 +1,4 @@
+1. Fotoğraf ve video yükleme
+2. Yorum yapabilme
+3. Direkt olarak mesaj atabilme
+4. Görüntülü arama yapabilme
