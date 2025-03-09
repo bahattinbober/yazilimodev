@@ -1,4 +1,5 @@
-1. Fotoğraf ve video yükleme
+1. Fotoğraf ve video yükleme 
 2. Yorum yapabilme
 3. Görüntülü arama yapabilme
 4. Kişi etiketleme
+
