@@ -2,4 +2,5 @@
 2. Yorum yapabilme
 3. Görüntülü arama yapabilme
 4. Kişi etiketleme
+5. Hikaye Paylaşma
 
